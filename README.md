@@ -9,3 +9,11 @@ Similarly, if you have an interesting file in whatever format, feel free to add 
 Have fun.
 
 73 de Onno VK6FLAB
+
+# clean
+
+The files in this folder are computer generated and intended as example files of a specific mode.
+
+# recorded
+
+The files in this folder are recorded off-air and are intended to test your decoding skills.
