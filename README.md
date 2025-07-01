@@ -6,6 +6,8 @@ Feel free to add a decode as an issue and I'll update the documentation.
 
 Similarly, if you have an interesting file in whatever format, feel free to add a pull request.
 
+If you are looking for examples of files to decode, here's another resource containing audio and other metadata maintained by [Dave W1HKJ](https://www.w1hkj.org/modes/).
+
 Have fun.
 
 73 de Onno VK6FLAB
